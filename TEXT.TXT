@@ -1,0 +1,256 @@
+UiPath-RPAv1
+
+UiPath RPA Associate v1.0
+
+Exam Description Document
+
+V1.8 July 2022  Page 1 of 7IMPORTANT: EXAM UPDATE TO UIPATH 2021.10 3
+INTRODUCTION 3
+TARGET AUDIENCE 3
+Minimally Qualified Candidate 4
+PRODUCTS 4
+EXAM DOMAINS/EXAM SECTIONS 4
+EXAM TOPICS 4
+Robotic Process Automation (RPA) Fundamentals 4
+UiPath Studio Overview 5
+UiPath Studio – Variables and Arguments 5
+UiPath Studio – Classic Selectors 5
+UiPath Studio – Control Flow 5
+UiPath Studio – Data Manipulation 5
+UiPath Automation Concepts and Techniques 5
+UiPath Orchestrator Overview 5
+ENVIRONMENTS, APPLICATIONS, AND/OR TOOLS 6
+RECOMMENDED TRAINING AND HANDS-ON EXPERIENCE 6
+Recommended Exam Preparation 7
+EXAM DETAILS 7
+
+V1.8 July 2022  Page 2 of 7IMPORTANT ALERT
+
+We are continuously monitoring Internet activities for any signs of cheating or misguided information.
+
+We are aware that there are a large number of websites who are selling fake exams and charging
+
+substantial prices for them. We will take immediate action if we find that the real exams have been
+
+compromised. Please do not spend money or rely on such cheat sites.
+
+IMPORTANT: Exam Update to UiPath 2021.10
+
+The exam has been aligned from UiPath version 2020.10 to 2021.10 as of June 30, 2022.
+
+If you have been preparing with 2020.10 training materials, please continue your preparations with
+
+the current courses as no additional training is required for the 2021.10 exam updates. Optionally,
+
+you can update your knowledge using the “2021.10 UiPath Platform Updates”, (Sections: Build
+
+and Manage), course at UiPath Academy.
+
+Introduction
+
+The UiPath Certified RPA Associate (UiRPA) is expected to be able to (1) independently design and
+develop simple RPA solutions or (2) be a productive member of an automation team led by an
+experienced RPA Developer responsible for developing complex solutions using UiPath
+technologies.
+
+This exam assesses knowledge and skills related to problem solving, process identification, and
+building simple automation solutions with UiPath platform components such as UiPath Studio,
+Robots, and Orchestrator.
+
+UiRPA is the first step for professionals who want to build and assess their knowledge and skills
+towards their journey to become an Advanced RPA Developer, Solution Architect or RPA Architect.
+
+Target Audience
+
+The target audience for the UiPath RPA Associate v1.0 Exam include all technical and semi-
+technical roles such as:
+
+• Junior RPA Developers
+• RPA Developers
+• Solution Architects
+• Business Analysts
+• System Administrators
+• College/University Students and/or Graduates
+• UiPath and Partner Employees in roles such as Pre-Sales, Services, Support, etc.
+
+V1.8 July 2022  Page 3 of 7Minimally Qualified Candidate
+
+The Minimally Qualified Candidate (MQC) is an individual with the following:
+
+• No prior experience with Robotic Process Automation (RPA); however, the MQC has taken
+and completed UiPath RPA Developer foundational training from UiPath, its authorized
+partners, Academic Alliance institutions or other sources which satisfy learning for subjects
+being tested
+
+- OR -
+
+• 3 – 6 months’ RPA hands-on experience
+
+Products
+
+Products covered on the exam include:
+
+• UiPath Studio version 2021.10
+• UiPath Robots version 2021.10
+• UiPath Orchestrator version 2021.10
+
+Exam Domains/Exam Sections
+
+The UiPath RPA Associate v1.0 Exam contains the following exam sections:
+
+• Robotic Process Automation (RPA) Fundamentals
+• UiPath Studio Overview
+• UiPath Studio – Variables and Arguments
+• UiPath Studio – Classic Selectors
+• UiPath Studio – Control Flow
+• UiPath Studio – Data Manipulation
+• UiPath Automation Concepts and Techniques
+• UiPath Orchestrator Overview
+
+Exam Topics
+
+Tasks performed by the Minimally Qualified Candidate:
+
+Robotic Process Automation (RPA) Fundamentals
+
+• Describe the processes suitable for automation and the processes executed with the
+different robot types; for example, attended versus unattended
+• Explain the functionality and interactions of UiPath products; Studio, Orchestrator, and
+Assistant
+
+V1.8 July 2022  Page 4 of 7UiPath Studio Overview
+
+• Explain the debug functions and how they are used; for example, using Breakpoints
+• Identify how to manage dependencies
+• Understand the significance of connecting an automation project to a version control solution
+
+UiPath Studio – Variables and Arguments
+
+• Describe the different variables’ types, how they are used, managed, and the best practice
+for using the variable scope
+• Describe the functions and differences between variables and arguments; including how
+arguments are used, managed, and best practices
+
+UiPath Studio – Classic Selectors
+
+• Identify and describe how dynamic versus static selectors are used
+• Identify and describe how partial versus full selectors are used
+• Identify and describe how and when to use the Anchor Base activity
+• Demonstrate and describe the use of a reliable selector and how to use UI Explorer to
+modify selectors
+
+UiPath Studio – Control Flow
+
+• Describe the functionality of the Control Flow activities (for example: If, Switch, While,
+Do While, For Each, etc.) and workflow types
+• Explain how to use Control Flow activities and workflow types (sequences and flowcharts)
+• Explain the importance of error handling and how it can be implemented
+
+UiPath Studio – Data Manipulation
+
+• Describe the importance and reasons why data manipulation is used; for example,
+conversion from one data type to another data type
+• Explain how strings can be manipulated; for example, by using VB string methods and
+RegEx Builder
+• Explain how to iterate and manipulate data on various collections; for example, lists,
+datatables, dictionaries
+
+UiPath Automation Concepts and Techniques
+
+• Identify and explain how e-mail automation is used
+• Identify and describe Microsoft Excel functions and how Excel activities are used for
+spreadsheet manipulation
+• Describe the functions used to extract data from a .pdf file; for example, reading native text
+or using OCR
+
+UiPath Orchestrator Overview
+
+• Identify and describe how UiPath Orchestrator queues and assets are used
+• Identify and explain how to publish projects to UiPath Orchestrator
+
+V1.8 July 2022  Page 5 of 7Environments, Applications, and/or Tools
+
+The Minimally Qualified Candidate (MQC) should be comfortable working with the following
+environments, applications, and/or tools:
+
+• Microsoft Windows
+• UiPath Studio
+• UiPath Orchestrator
+• Virtual environments (VMs)
+• Browser (IE, Chrome, etc.)
+• Version Control
+• MS Office and/or MS Office Suite
+• Notepad++ (or any other text editor)
+
+Recommended Training and Hands-on Experience
+
+The following represents the recommended learning path the Minimally Qualified Candidate (MQC)
+can take to prepare for the UiPath RPA Associate v1.0 Exam:
+
+Training Options:
+
+•   RPA Associate Learning Plan  is a comprehensive online training for you
+to prepare for the Associate exam at no cost to you.
+
+- OR -
+
+• UiRPA aligned course at a UiPath Academic Alliance institution or at a UiPath Learning
+Partner (ULP) training organization:
+
+o Course Title: Robotic Process Automation Design & Development v4.0
+
+- OR –
+
+•   Robotic Process Automation (RPA) Specialization course which is aligned to
+UiRPA.
+- OR -
+
+• Other training or self-learning sources that cover the subjects listed in this document to
+prepare for the exam.
+
+Hands-on Experience:
+
+1. Developing an attended process (i.e., workflow)
+2. Developing an unattended process (i.e., workflow)
+3. Proof of Concept – creating and/or demonstrating
+4. Experience resolving application changes and/or code changes
+5. Peer code reviews
+
+V1.8 July 2022  Page 6 of 7Recommended Exam Preparation
+
+In addition to the recommended learning path, the practice test is an additional study tool to prepare
+for the UiPath RPA Associate v1.0 Exam:
+
+• RPA Associate v1.0 Practice Test
+
+Exam Details
+
+Certification Tracks
+UiPath Certified Professional
+1. General Track
+2. Developer Track
+
+Specialty Robotic Process Automation Developer
+
+Credential  UiPath Certified RPA Associate v1.0 (UiRPA)
+
+Exam Number and
+Exam Title
+UiPath-RPAv1 - UiPath RPA Associate v1.0 Exam
+
+Pre-requisite Exam(s)
+and/or Certification(s)
+Though not a pre-requisite, UiRPA is strongly recommended
+for those interested in achieving UiPath Certified Advanced
+RPA Developer (UiARD) Certification.
+
+Exam Duration 90 minutes
+
+Passing Score 70%
+
+Exam Fee  $150.00
+
+Copyright © 2022 UiPath Inc. or its subsidiaries. All Rights Reserved. UiPath, and other trademarks are trademarks of UiPath Inc. or
+its subsidiaries. Other trademarks may be the property of their respective owners.
+
+V1.8 July 2022  Page 7 of 7
